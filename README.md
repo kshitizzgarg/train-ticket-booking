@@ -9,7 +9,7 @@ This is a Java, Spring Boot Maven project that implements a simple REST API for 
 5. User - To store user details like name, email.
 
 ## ER Diagram
-![](../../../ticketbook-erd.png)
+![TicketBookingApp ER diagram](ticketbook-erd.png)
 
 ## API Endpoints
 1. I want to board a train from London to France. The train ticket will cost $20.
